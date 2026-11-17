@@ -1,0 +1,59 @@
+﻿Risk level,Recommendation title,Exposed asset,Asset risk factors,Asset attack paths,Recommendation owner,Status,Asset managed in
+Medium,Update openssl,web-management,,0,,Unassigned,Azure portal
+Medium,Update openssl,web-management,,0,,Unassigned,Azure portal
+Medium,Update visual_studio_code,web-management,,0,olademilade890@outlook.com,Overdue,Azure portal
+Medium,Update visual_studio_code,web-management,,0,olademilade890@outlook.com,Overdue,Azure portal
+Low,Azure Key Vaults should use private link,WebMgtKV,,0,,Unassigned,Azure portal
+Low,Diagnostic logs in Key Vault should be enabled,WebMgtKV,,0,,Unassigned,Azure portal
+Low,Email notification for high severity alerts should be enabled,Azure subscription,,0,,Unassigned,Azure portal
+Low,Email notification for high severity alerts should be enabled,Azure subscription,,0,,Unassigned,Azure portal
+Low,Email notification to subscription owner for high severity alerts should be enabled,Azure subscription,,0,,Unassigned,Azure portal
+Low,Email notification to subscription owner for high severity alerts should be enabled,Azure subscription,,0,,Unassigned,Azure portal
+Low,Firewall should be enabled on Key Vault,WebMgtKV,,0,,Unassigned,Azure portal
+Low,Guest Configuration extension should be installed on machines,web-management,,0,,Unassigned,Azure portal
+Low,Guest Configuration extension should be installed on machines,web-management,,0,,Unassigned,Azure portal
+Low,Guest Configuration extension should be installed on machines,web-management,,0,,Unassigned,Azure portal
+Low,Guest Configuration extension should be installed on machines,web-management,,0,,Unassigned,Azure portal
+Low,Key vaults should have deletion protection enabled,WebMgtKV,,0,,Unassigned,Azure portal
+Low,Microsoft Defender for Key Vault should be enabled,Azure subscription,,0,,Unassigned,Azure portal
+Low,Microsoft Defender for Key Vault should be enabled,Azure subscription,,0,,Unassigned,Azure portal
+Low,Privileged roles should not have permanent access at the subscription and resource group level,ola demilade,,0,,Unassigned,Azure portal
+Low,Privileged roles should not have permanent access at the subscription and resource group level,ola demilade,,0,,Unassigned,Azure portal
+Low,Storage account should use a private link connection,netdrive,,0,,Unassigned,Azure portal
+Low,Storage account should use a private link connection,netdrive,,0,,Unassigned,Azure portal
+Low,Storage accounts should prevent shared key access,netdrive,,0,,Unassigned,Azure portal
+Low,Storage accounts should prevent shared key access,netdrive,,0,,Unassigned,Azure portal
+Low,Subscriptions should have a contact email address for security issues,Azure subscription,,0,,Unassigned,Azure portal
+Low,Subscriptions should have a contact email address for security issues,Azure subscription,,0,,Unassigned,Azure portal
+Low,There should be more than one owner assigned to subscriptions,Azure subscription,,0,,Unassigned,Azure portal
+Low,There should be more than one owner assigned to subscriptions,Azure subscription,,0,,Unassigned,Azure portal
+Low,Virtual machines and virtual machine scale sets should have encryption at host enabled,web-management,,0,,Unassigned,Azure portal
+Low,Virtual machines and virtual machine scale sets should have encryption at host enabled,web-management,,0,,Unassigned,Azure portal
+Low,Virtual machines and virtual machine scale sets should have encryption at host enabled,web-management,,0,,Unassigned,Azure portal
+Low,Virtual machines and virtual machine scale sets should have encryption at host enabled,web-management,,0,,Unassigned,Azure portal
+Low,Windows virtual machines should enable Azure Disk Encryption or EncryptionAtHost.,web-management,,0,,Unassigned,Azure portal
+Low,Windows virtual machines should enable Azure Disk Encryption or EncryptionAtHost.,web-management,,0,,Unassigned,Azure portal
+Low,Windows virtual machines should enable Azure Disk Encryption or EncryptionAtHost.,web-management,,0,,Unassigned,Azure portal
+Low,Windows virtual machines should enable Azure Disk Encryption or EncryptionAtHost.,web-management,,0,,Unassigned,Azure portal
+None,EDR solution should be installed on Virtual Machines,web-management,,0,,Exempted,Azure portal
+None,EDR solution should be installed on Virtual Machines,web-management,,0,,Exempted,Azure portal
+None,EDR solution should be installed on Virtual Machines,web-management,,0,,Exempted,Azure portal
+None,EDR solution should be installed on Virtual Machines,web-management,,0,,Exempted,Azure portal
+None,Microsoft Defender for APIs should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for APIs should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for Azure SQL Database servers should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for Azure SQL Database servers should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for Containers should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for Containers should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for SQL servers on machines should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for SQL servers on machines should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for open-source relational databases should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Microsoft Defender for open-source relational databases should be enabled,Azure subscription,,0,,Exempted,Azure portal
+None,Windows Defender Exploit Guard should be enabled on machines,web-management,,0,,Exempted,Azure portal
+None,Windows Defender Exploit Guard should be enabled on machines,web-management,,0,,Exempted,Azure portal
+None,Windows Defender Exploit Guard should be enabled on machines,web-management,,0,,Exempted,Azure portal
+None,Windows Defender Exploit Guard should be enabled on machines,web-management,,0,,Exempted,Azure portal
+None,Windows servers should be configured to use secure communication protocols,web-management,,0,,Exempted,Azure portal
+None,Windows servers should be configured to use secure communication protocols,web-management,,0,,Exempted,Azure portal
+None,Windows servers should be configured to use secure communication protocols,web-management,,0,,Exempted,Azure portal
+None,Windows servers should be configured to use secure communication protocols,web-management,,0,,Exempted,Azure portal
